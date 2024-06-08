@@ -1,47 +1,43 @@
 ---
-title: Blogpost 2
-pubDate: 12/31/2022 12:05
-author: "Elian Van Cutsem"
+title: how the web works
+pubDate: 01/11/2024 12:05
+author: "Teodoro Garcia"
 tags:
-  - Astro
+  - Http
   - WebDev
   - Programming
-imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+imgUrl: '../../assets/router.jpg'
+description: exploring how the web works.
 layout: '../../layouts/BlogPost.astro'
 ---
+## Demystifying the Maze: How the Web Works
 
-## Deorum petiit ignis
+We click, we scroll, we tap - the web is an ever-present companion, but have you ever wondered what goes on behind the scenes? Let's peel back the curtain and explore the intricate machinery that brings websites to life.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+**From URL to Reality:**
 
-## Iovis late orbem Perseus sunt
+1. **The Address Quest:** Your journey begins with a simple URL, like "[www.google.com](https://www.google.com)". But computers speak IP addresses, not fancy domain names. So, your **browser** contacts a **DNS server**, the internet's address book, to translate the URL into the corresponding IP address (think of it as finding the shop's actual location).
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+2. **The Request Line:** Once the IP address is in hand, your browser sends an **HTTP request** to the website's server. This message politely asks for the website's data, specifying elements like the desired page and any cookies you might have.
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+3. **Server Says What?** The server receives the request and decides what to do. It might pull up a pre-made webpage from its storage, or dynamically generate one based on your request (like displaying personalized recommendations).
 
-## Longum minus sic saepe
+4. **Data on the Go:** The server then packages the website's data into bite-sized pieces called **packets**, each with its own address like a postal code. These packets travel through the internet's vast network of routers, finding the most efficient path to reach your device.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+5. **Reassemble and Render:** Your browser receives the packets and reassembles them into the complete website. Then, it uses its magic to interpret the code (HTML, CSS, JavaScript) and paint the website on your screen, complete with images, videos, and interactive elements.
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+**More Than Meets the Eye:**
 
-## Geminas namque quod referitur argenteus aderat superstes
+This is just the basic flow, but the web is full of fascinating layers:
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+* **Security Guards:** Encryption protocols like HTTPS keep your data safe during its journey.
+* **Content Delivery Networks (CDNs):** Distribute website content from servers around the world for faster loading, no matter where you are.
+* **Web Caches:** Store website data locally on your device, so you don't have to download it every time you visit.
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+**The Web Evolves:**
+
+The web is constantly changing, with new technologies and protocols emerging all the time. But the core principles - requests, responses, and data packets - remain the same. Understanding these fundamentals helps you appreciate the complexity and ingenuity behind the world you access with a click.
+
+So, the next time you browse your favorite website, remember - it's not just magic, it's a carefully orchestrated dance of technology working tirelessly to bring you the information and experiences you crave.
+
+

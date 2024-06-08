@@ -1,47 +1,50 @@
 ---
-title: Blogpost 1
-pubDate: 11/09/2022 14:25
-author: "Elian Van Cutsem"
+title: Diving into ruby
+pubDate: 01/15/2024 14:25
+author: "Teodoro Garcia"
 tags:
-  - JavaScript
-  - Astro
-  - UnoCSS
-imgUrl: '../../assets/astro.jpeg'
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
+  - Ruby
+  - Programming
+  - Developer
+imgUrl: '../../assets/ruby.png'
+description: What makes ruby good as a programming language
 layout: '../../layouts/BlogPost.astro'
 ---
+## Diving into Ruby: Unlocking the World of Programming
 
-## Deorum petiit ignis
+Ruby, with its quirky syntax and friendly community, has captivated programmers for decades. Whether you're a seasoned coder seeking a new tool or a curious newcomer wanting to build your first website, the fundamentals of Ruby offer a rewarding journey. So, grab your metaphorical shovel and let's unearth the gems at the core of this vibrant language.
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+**Hello, World! (With a Ruby Twist):**
 
-## Iovis late orbem Perseus sunt
+Start with the quintessential "Hello, World" program. In Ruby, it's as simple as `puts "Hello, World!"`. This tiny line prints the message to the console, showcasing the basic building block: **expressions**. Expressions evaluate to values, like "Hello, World!" in this case.
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+**Building Blocks of Code:**
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+Next, get acquainted with **variables**. Think of them as containers holding values. Declare a variable with `name = "Teo"` and you've stored the string "Teo" for later use. You can then retrieve or manipulate it with ease.
 
-## Longum minus sic saepe
+Ruby offers diverse data types like numbers, strings, and arrays (ordered lists). **Operators** let you work with these types. Add two numbers with `5 + 3`, create a list of fruits with `["apple", "banana", "cherry"]`, or access an element in the list with `fruits[1]`.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+**Decisions, Decisions:**
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+Code often needs to make choices. Enter **conditionals**. Use `if` and `else` to decide what code to run based on a condition. For example, `if age >= 18 then puts "Welcome!" else puts "Come back later"` checks if the user is old enough and prints accordingly.
 
-## Geminas namque quod referitur argenteus aderat superstes
+**Looping the Loop:**
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+Sometimes, you need to repeat tasks. That's where **loops** come in. `while` loops continue as long as a condition is true, while `for` loops iterate a specific number of times or through a collection. Imagine printing each fruit in the `fruits` list using a `for` loop!
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+**The Power of Objects:**
+
+Ruby shines in its embrace of **object-oriented programming**. Imagine real-world objects like users, products, or blog posts. Objects in Ruby encapsulate data and behavior, allowing you to define classes and create individual instances (think of creating multiple user objects). This modular approach keeps your code organized and scalable.
+
+**Beyond the Basics:**
+
+This is just a glimpse into the vast world of Ruby. You can delve deeper into methods, blocks, modules, and advanced concepts like metaprogramming. But remember, the true beauty of Ruby lies in its elegance and expressiveness. Enjoy the journey as you learn to think like a Rubyist and craft unique solutions to your programming challenges.
+
+**Resources for Exploration:**
+
+-   **Interactive Ruby (IRB):** Play around with Ruby code in real-time.
+-   **Official Ruby Documentation:** Dive deeper into the language's intricacies.
+-   **The Odin Project:** Free, interactive web development course featuring Ruby.
+-   **Ruby on Rails:** Popular web framework built on Ruby for rapid development.
+
+Remember, the Ruby community is friendly and welcoming. Don't hesitate to ask questions and learn from others as you embark on your Ruby adventure. So, get coding, have fun, and discover the boundless possibilities of this versatile language!

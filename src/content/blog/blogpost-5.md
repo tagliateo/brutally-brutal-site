@@ -1,47 +1,39 @@
 ---
-title: Blogpost 5
-author: Elian Van Cutsem
-pubDate: 2023-02-19 18:37
+title: I Wrote Another Book
+author: Teodoro Garcia
+pubDate: 2024-02-25 18:37
 tags:
-  - Astro
-  - JavaScript
-  - Theme
-description: Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, vox nocte sedesque, decimo. Omnia esse, quam sive; conplevit illis indestrictus admovit dedit sub quod protectus, impedit non.
-imgUrl: '../../assets/astro.jpeg'
+  - Poetry
+  - Personal
+  - Book
+  - Writing
+description: I wrote another book so here's all about it.
+imgUrl: '../../assets/poem.jpg'
 layout: "../../layouts/BlogPost.astro"
 ---
 
-## Deorum petiit ignis
+## Unveiling "**Verses Under a Killing Moon**": A Journey Through The Macabre in Verse
 
-Lorem markdownum longo os thyrso telum, continet servat fetus nymphae, *vox
-nocte sedesque*, decimo. Omnia esse, quam sive; conplevit illis indestrictus
-admovit dedit sub quod protectus, impedit non.
+I'm thrilled to finally announce the release of my debut poetry collection, **"Verses Under a Killing Moon"**! This project has been a labor of love, pouring my heart and soul onto the page to explore themes of dark thoughts that run through your mind at night.
 
-## Iovis late orbem Perseus sunt
+**Verses Under a Killing Moon** takes you on a journey through fear, paranoia, and loneliness with raw honesty and lyrical beauty. Each poem delves into the depths of muder, dark academia, isolotaion, and vulnerability, offering glimpses into those thoughts that give you the creeps. Whether you're seeking solace, reflection, or simply an appreciation for the power of words, this collection has something to offer everyone.
 
-Aras reperire, sui motis correpti coniunx Onetor amore ferire lacertis, petiit.
-Bis pallor et mecum me, igne patruelibus *tendebam*, vultu sterilique terruerat
-*tempore* medium aera **eadem Mittor**.
+**Here's a sneak peek into what you can expect:**
 
-- Non turba loca dederunt primordia ineamus Dictys
-- Tanti amat mundus sedula
-- Potuissent aetas parili coniuge se lumina breve
-- Tamen ille crepitantibus ulla coeperunt quibus iugulo
-- Pindusque solacia luctataque felix
+* **Ode to Thee:** This poem explores unrequitted love and confusion.
+* **Nocturne at the Stacks:** In this piece, I delve into dark academia.
+* **Beneath the Willow:** This powerful poem explores the powerful theme of regret.
 
-## Longum minus sic saepe
+Writing **"Verses Under a Killing Moon"** has been a deeply personal experience, and I can't wait to share it with the world. I hope these poems resonate with you, spark your own creativity, and leave you with a sense of connection.
 
-Genu cupiens quoque: cum dolor: sollicitive cantu, et piae Leuconoe, huius non
-nil tuli Peleusque rauca. Et alvum cuncti Hippodamas meritis nec coniunx ausa,
-pete. Congestaque nisi nullus poena. Tanto cum, curvis vulnera quod optatis,
-trahens conplexa saepe.
+**Call to action!**
 
-Hominum quo. Signa germanaeque iuvat at feruntur precantibus corpus praebuerat
-excipit mixtaeque inferior, haec percepit regum: nec nec sit ferenti.
+* **"Verses Under a Killing Moon"** is now available for purchase at [Lulu](https://www.lulu.com/shop/teodoro-garcia/verses-under-a-killing-moon/ebook/product-nvqw58e.html?page=1&pageSize=4).
+* Share your thoughts and experiences with the poems by leaving a comment below or connecting with me on [Threads](https://www.threads.net/@teddy.dev).
+* If you're a fellow poet, I'd love to hear about your work!
 
-## Geminas namque quod referitur argenteus aderat superstes
+**Thank you for your support on this exciting journey!**
 
-Insistere pugno. Cum morae vigilantibus dulces Cycnus: neque cum sororis.
+**Teodoro Garcia**
 
-Hac Aestas solet docebo tandem tamquam omnis vitiantur mitte, vatis in animique
-infelix passimque. Superasset onus.
+**P.S.** Don't forget to follow me on [Threads](https://www.threads.net/@teddy.dev) for updates and future projects!
