@@ -1,7 +1,7 @@
 ---
 title: I Wrote Another Book
 author: Teodoro Garcia
-pubDate: 2024-02-25 18:37
+pubDate: 02/25/2024 18:37
 tags:
   - Poetry
   - Personal

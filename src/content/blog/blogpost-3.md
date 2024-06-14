@@ -1,7 +1,7 @@
 ---
 title: Gitkraken-> Taming the Git BeasBlogpost 3
 description: using gitkraken for version control and making your life easier.
-pubDate: 2024-01-25 23:49
+pubDate: 01/25/2024 23:49
 author: Elian Van Cutsem
 tags: 
   - git

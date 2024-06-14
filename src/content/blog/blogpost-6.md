@@ -1,7 +1,7 @@
 ---
 title: Ruby on Rails vs. PHP Laravel
 description: all about rails and laravel; lets compare them
-pubDate: 2024-01-19 00:13
+pubDate: 01/19/2024 00:13
 author: Teodoro Garcia
 tags:
     - PHP

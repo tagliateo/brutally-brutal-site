@@ -1,6 +1,6 @@
 ---
 title: My New Book!
-pubDate: 06/10/2024 10:35
+pubDate: 06/14/2024 10:35
 author: "Teodoro Garcia"
 tags:
     - Personal

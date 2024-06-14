@@ -1,7 +1,7 @@
 ---
 title: AI and the Butlerian Jihad
 author: Teodoro Garcia
-pubDate: 2024-01-23 12:00
+pubDate: 01/23/2024 12:00
 tags:
   - AI
   - Dune
