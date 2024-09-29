@@ -1,7 +1,7 @@
 ---
 title: Static vs NonStatic Subroutines in Java
 author: Teodoro Garcia
-pubDate: 09-29-2024 12:31
+pubDate: 09/29/2024 12:31
 tags:
   - Java
   - OOP
